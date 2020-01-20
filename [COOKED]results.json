@@ -1,0 +1,818 @@
+{
+  "result": true,
+  "response": {
+    "microsoft.json": {
+      "resultat": ""
+    },
+    "google.json": {
+      "transcript": "devient de la référence pour toutes sortes de cocktail deviennent la référence dans les rave party la référence dans les boîtes de nuit que chacun ait quune seule idée en tête cest quen sortant des cours en sortant du boulot on se prend le Red Bull et on va te fait toute la nuit parce que oui nous sommes à la fin des années 80 les energy drink absolument personne sait ce que cest en Europe absolument personne sait ce que cest aux États-Unis comme on peut pas vouloir quelque chose dans ton ignore lexistence quelque chose qui nexiste pas pour le moment on ne peut pas simaginer on peut pas en avoir envie",
+      "confidence": 0.9219000339508057
+    },
+    "ibm.json": {
+      "results": [
+        {
+          "alternatives": [
+            {
+              "confidence": 0.87,
+              "transcript": "devient la référence pour toute sorte de cocktails devient la référence dans les rails partis de référence dans les boîtes de nuit que chacun est qu une solide en tête c'est qu'en sortant des cours en sortant du boulot on se prendrait boule et on va te fait toute la nuit ici parce que oui nous sommes à la fin des années quatre-vingt les énergies bring absolument personne ne sait ce que c'est en europe absolument personne ne sait ce que c'est aux etats unis comme disait estime dure dont ne pas vouloir quelque chose dont on ignore l'existence quelque chose qui n'existe pas pour le moment on ne peut pas imaginer on peut en avoir envie de "
+            }
+          ],
+          "final": true
+        }
+      ],
+      "result_index": 0
+    },
+    "speechmatics.json": {
+      "job": {
+        "lang": "fr",
+        "user_id": 75717,
+        "name": "sample1.flac",
+        "duration": 31,
+        "created_at": "Mon Jan  6 21:10:56 2020",
+        "id": 16956649
+      },
+      "speakers": [
+        {
+          "duration": "31.09",
+          "confidence": null,
+          "name": "M1",
+          "time": "0.36"
+        }
+      ],
+      "words": [
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "La",
+          "time": "0.36"
+        },
+        {
+          "duration": "0.81",
+          "confidence": "1.000",
+          "name": "référence",
+          "time": "0.48"
+        },
+        {
+          "duration": "0.30",
+          "confidence": "1.000",
+          "name": "pour",
+          "time": "1.38"
+        },
+        {
+          "duration": "0.24",
+          "confidence": "0.950",
+          "name": "toutes",
+          "time": "1.68"
+        },
+        {
+          "duration": "0.36",
+          "confidence": "0.950",
+          "name": "sortes",
+          "time": "1.92"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "de",
+          "time": "2.28"
+        },
+        {
+          "duration": "0.34",
+          "confidence": "0.740",
+          "name": "cocktails",
+          "time": "2.40"
+        },
+        {
+          "duration": "0.23",
+          "confidence": "0.480",
+          "name": "elles",
+          "time": "2.74"
+        },
+        {
+          "duration": "0.33",
+          "confidence": "0.820",
+          "name": "deviennent",
+          "time": "3.21"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "la",
+          "time": "3.54"
+        },
+        {
+          "duration": "0.51",
+          "confidence": "1.000",
+          "name": "référence",
+          "time": "3.69"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "dans",
+          "time": "4.20"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "0.980",
+          "name": "les",
+          "time": "4.32"
+        },
+        {
+          "duration": "0.41",
+          "confidence": "0.960",
+          "name": "rêves",
+          "time": "4.47"
+        },
+        {
+          "duration": "0.48",
+          "confidence": "0.540",
+          "name": "partis",
+          "time": "4.88"
+        },
+        {
+          "duration": "0.36",
+          "confidence": "0.430",
+          "name": ".",
+          "time": "5.37"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "La",
+          "time": "5.91"
+        },
+        {
+          "duration": "0.57",
+          "confidence": "1.000",
+          "name": "référence",
+          "time": "6.06"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "dans",
+          "time": "6.63"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "1.000",
+          "name": "les",
+          "time": "6.75"
+        },
+        {
+          "duration": "0.27",
+          "confidence": "0.990",
+          "name": "boîtes",
+          "time": "6.84"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "de",
+          "time": "7.11"
+        },
+        {
+          "duration": "0.30",
+          "confidence": "1.000",
+          "name": "nuit",
+          "time": "7.26"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "que",
+          "time": "7.71"
+        },
+        {
+          "duration": "0.38",
+          "confidence": "1.000",
+          "name": "chacun",
+          "time": "7.86"
+        },
+        {
+          "duration": "0.08",
+          "confidence": "0.550",
+          "name": "n'a",
+          "time": "8.24"
+        },
+        {
+          "duration": "0.26",
+          "confidence": "1.000",
+          "name": "qu'une",
+          "time": "8.32"
+        },
+        {
+          "duration": "0.24",
+          "confidence": "1.000",
+          "name": "seule",
+          "time": "8.58"
+        },
+        {
+          "duration": "0.18",
+          "confidence": "1.000",
+          "name": "idée",
+          "time": "8.82"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "1.000",
+          "name": "en",
+          "time": "9.00"
+        },
+        {
+          "duration": "0.18",
+          "confidence": "1.000",
+          "name": "tête",
+          "time": "9.09"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "c'est",
+          "time": "9.30"
+        },
+        {
+          "duration": "0.18",
+          "confidence": "1.000",
+          "name": "qu'en",
+          "time": "9.42"
+        },
+        {
+          "duration": "0.30",
+          "confidence": "1.000",
+          "name": "sortant",
+          "time": "9.60"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "des",
+          "time": "9.90"
+        },
+        {
+          "duration": "0.42",
+          "confidence": "0.980",
+          "name": "cours",
+          "time": "10.02"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "en",
+          "time": "10.77"
+        },
+        {
+          "duration": "0.42",
+          "confidence": "1.000",
+          "name": "sortant",
+          "time": "10.92"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "du",
+          "time": "11.34"
+        },
+        {
+          "duration": "0.39",
+          "confidence": "1.000",
+          "name": "boulot",
+          "time": "11.46"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "1.000",
+          "name": "on",
+          "time": "11.94"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "1.000",
+          "name": "se",
+          "time": "12.03"
+        },
+        {
+          "duration": "0.18",
+          "confidence": "0.980",
+          "name": "prend",
+          "time": "12.12"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "0.980",
+          "name": "une",
+          "time": "12.30"
+        },
+        {
+          "duration": "0.22",
+          "confidence": "0.750",
+          "name": "Red",
+          "time": "12.39"
+        },
+        {
+          "duration": "0.25",
+          "confidence": "0.750",
+          "name": "Bull",
+          "time": "12.61"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "0.970",
+          "name": "et",
+          "time": "12.93"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "on",
+          "time": "13.02"
+        },
+        {
+          "duration": "0.18",
+          "confidence": "1.000",
+          "name": "va",
+          "time": "13.14"
+        },
+        {
+          "duration": "0.27",
+          "confidence": "1.000",
+          "name": "te",
+          "time": "13.32"
+        },
+        {
+          "duration": "0.22",
+          "confidence": "0.810",
+          "name": "faire",
+          "time": "13.59"
+        },
+        {
+          "duration": "0.24",
+          "confidence": "1.000",
+          "name": "toute",
+          "time": "13.83"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "la",
+          "time": "14.07"
+        },
+        {
+          "duration": "0.24",
+          "confidence": "1.000",
+          "name": "nuit",
+          "time": "14.19"
+        },
+        {
+          "duration": "0.21",
+          "confidence": "0.990",
+          "name": "parce",
+          "time": "14.67"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "0.990",
+          "name": "que",
+          "time": "14.88"
+        },
+        {
+          "duration": "0.21",
+          "confidence": "0.990",
+          "name": "oui",
+          "time": "15.00"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "nous",
+          "time": "15.51"
+        },
+        {
+          "duration": "0.21",
+          "confidence": "1.000",
+          "name": "sommes",
+          "time": "15.66"
+        },
+        {
+          "duration": "0.03",
+          "confidence": "1.000",
+          "name": "à",
+          "time": "15.87"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "la",
+          "time": "15.90"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "fin",
+          "time": "16.02"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "des",
+          "time": "16.17"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "années",
+          "time": "16.32"
+        },
+        {
+          "duration": "0.51",
+          "confidence": "1.000",
+          "name": "80",
+          "time": "16.44"
+        },
+        {
+          "duration": "0.21",
+          "confidence": "1.000",
+          "name": "les",
+          "time": "16.98"
+        },
+        {
+          "duration": "0.39",
+          "confidence": "0.990",
+          "name": "énergies",
+          "time": "17.19"
+        },
+        {
+          "duration": "0.36",
+          "confidence": "0.930",
+          "name": "drink",
+          "time": "17.58"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "0.700",
+          "name": ".",
+          "time": "17.94"
+        },
+        {
+          "duration": "0.51",
+          "confidence": "1.000",
+          "name": "Absolument",
+          "time": "18.06"
+        },
+        {
+          "duration": "0.58",
+          "confidence": "1.000",
+          "name": "personne",
+          "time": "18.57"
+        },
+        {
+          "duration": "0.05",
+          "confidence": "0.780",
+          "name": "ne",
+          "time": "19.15"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "0.980",
+          "name": "sait",
+          "time": "19.20"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "1.000",
+          "name": "ce",
+          "time": "19.32"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "que",
+          "time": "19.41"
+        },
+        {
+          "duration": "0.27",
+          "confidence": "1.000",
+          "name": "c'est",
+          "time": "19.56"
+        },
+        {
+          "duration": "0.06",
+          "confidence": "0.600",
+          "name": ".",
+          "time": "19.83"
+        },
+        {
+          "duration": "0.21",
+          "confidence": "1.000",
+          "name": "En",
+          "time": "19.89"
+        },
+        {
+          "duration": "0.33",
+          "confidence": "1.000",
+          "name": "Europe",
+          "time": "20.10"
+        },
+        {
+          "duration": "0.39",
+          "confidence": "1.000",
+          "name": "absolument",
+          "time": "20.43"
+        },
+        {
+          "duration": "0.50",
+          "confidence": "1.000",
+          "name": "personne",
+          "time": "20.82"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "0.980",
+          "name": "sait",
+          "time": "21.33"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "0.970",
+          "name": "ce",
+          "time": "21.48"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "que",
+          "time": "21.57"
+        },
+        {
+          "duration": "0.27",
+          "confidence": "1.000",
+          "name": "c'est",
+          "time": "21.72"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "aux",
+          "time": "22.08"
+        },
+        {
+          "duration": "0.66",
+          "confidence": "0.770",
+          "name": "états-Unis",
+          "time": "22.20"
+        },
+        {
+          "duration": "0.14",
+          "confidence": "0.600",
+          "name": ".",
+          "time": "22.86"
+        },
+        {
+          "duration": "0.06",
+          "confidence": "0.630",
+          "name": "Et",
+          "time": "23.03"
+        },
+        {
+          "duration": "0.21",
+          "confidence": "1.000",
+          "name": "comme",
+          "time": "23.10"
+        },
+        {
+          "duration": "0.27",
+          "confidence": "1.000",
+          "name": "disait",
+          "time": "23.31"
+        },
+        {
+          "duration": "0.24",
+          "confidence": "1.000",
+          "name": "Steve",
+          "time": "23.58"
+        },
+        {
+          "duration": "0.24",
+          "confidence": "1.000",
+          "name": "Jobs",
+          "time": "23.82"
+        },
+        {
+          "duration": "0.06",
+          "confidence": "1.000",
+          "name": "on",
+          "time": "24.12"
+        },
+        {
+          "duration": "0.06",
+          "confidence": "1.000",
+          "name": "ne",
+          "time": "24.18"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "peut",
+          "time": "24.24"
+        },
+        {
+          "duration": "0.15",
+          "confidence": "1.000",
+          "name": "pas",
+          "time": "24.36"
+        },
+        {
+          "duration": "0.33",
+          "confidence": "1.000",
+          "name": "vouloir",
+          "time": "24.51"
+        },
+        {
+          "duration": "0.30",
+          "confidence": "1.000",
+          "name": "quelque",
+          "time": "24.84"
+        },
+        {
+          "duration": "0.39",
+          "confidence": "1.000",
+          "name": "chose",
+          "time": "25.14"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "dont",
+          "time": "25.53"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "on",
+          "time": "25.71"
+        },
+        {
+          "duration": "0.27",
+          "confidence": "1.000",
+          "name": "ignore",
+          "time": "25.83"
+        },
+        {
+          "duration": "0.60",
+          "confidence": "1.000",
+          "name": "l'existence",
+          "time": "26.10"
+        },
+        {
+          "duration": "0.16",
+          "confidence": "0.900",
+          "name": ".",
+          "time": "26.70"
+        },
+        {
+          "duration": "0.24",
+          "confidence": "1.000",
+          "name": "Quelque",
+          "time": "26.88"
+        },
+        {
+          "duration": "0.24",
+          "confidence": "1.000",
+          "name": "chose",
+          "time": "27.12"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "1.000",
+          "name": "qui",
+          "time": "27.36"
+        },
+        {
+          "duration": "0.60",
+          "confidence": "1.000",
+          "name": "n'existe",
+          "time": "27.45"
+        },
+        {
+          "duration": "0.24",
+          "confidence": "1.000",
+          "name": "pas",
+          "time": "28.32"
+        },
+        {
+          "duration": "0.17",
+          "confidence": "1.000",
+          "name": "pour",
+          "time": "28.57"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "1.000",
+          "name": "le",
+          "time": "28.74"
+        },
+        {
+          "duration": "0.27",
+          "confidence": "1.000",
+          "name": "moment",
+          "time": "28.83"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "0.970",
+          "name": "on",
+          "time": "29.34"
+        },
+        {
+          "duration": "0.06",
+          "confidence": "1.000",
+          "name": "ne",
+          "time": "29.43"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "1.000",
+          "name": "peut",
+          "time": "29.49"
+        },
+        {
+          "duration": "0.21",
+          "confidence": "1.000",
+          "name": "pas",
+          "time": "29.58"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "0.950",
+          "name": "se",
+          "time": "29.79"
+        },
+        {
+          "duration": "0.58",
+          "confidence": "1.000",
+          "name": "l'imaginer",
+          "time": "29.88"
+        },
+        {
+          "duration": "0.03",
+          "confidence": "0.540",
+          "name": ".",
+          "time": "30.48"
+        },
+        {
+          "duration": "0.09",
+          "confidence": "1.000",
+          "name": "On",
+          "time": "30.54"
+        },
+        {
+          "duration": "0.06",
+          "confidence": "1.000",
+          "name": "ne",
+          "time": "30.63"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "peut",
+          "time": "30.69"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "1.000",
+          "name": "pas",
+          "time": "30.81"
+        },
+        {
+          "duration": "0.12",
+          "confidence": "0.990",
+          "name": "en",
+          "time": "30.93"
+        },
+        {
+          "duration": "0.21",
+          "confidence": "1.000",
+          "name": "avoir",
+          "time": "31.05"
+        },
+        {
+          "duration": "0.19",
+          "confidence": "0.780",
+          "name": "envie",
+          "time": "31.26"
+        },
+        {
+          "duration": "0.00",
+          "confidence": "1.000",
+          "name": ".",
+          "time": "31.45"
+        }
+      ],
+      "format": "1.0"
+    },
+    "amazon.json": {
+      "transcript": "devienne la référence pour toute sorte de cocktail devienne la référence dans les rêves partis. La référence dans les boites de nuit que chacun n'est qu'une seule idée en tête, c'est qu'en sortant des cours, en sortant du boulot, on se prendrait boules et on va te fait toute la nuit. Parce que oui, nous sommes à la fin des années. Quatre-vingts les énergies de ring. Absolument personne ne sait ce que c'est en Europe. Absolument. Personne ne sait ce que c'est aux Etats Unis. Et comme disait Steve Jobs, on ne peut pas vouloir quelque chose dont on ignore l'existence, quelque chose qui n'existe pas. Pour le moment, on ne peut pas se l'imaginer, on ne peut pas en avoir envie."
+    }
+  }
+}
